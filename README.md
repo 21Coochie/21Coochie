@@ -2,7 +2,7 @@
 - 👀 I’m interested in having fun coding 
 - 🌱 I’m currently learning python and java 
 - 💞️ I’m looking to collaborate on any fun project
-- 📫 How to reach me +233577370388, coochie king on telegram 
+- 📫 How to reach me +233577370388, coochie on telegram 
 
 <!---
 21Coochie/21Coochie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
